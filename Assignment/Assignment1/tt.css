@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto;
+}
+.tt-heading{
+    width: 80%;
+    height: 50px;
+    background-image: url(ttBg.jpeg);
+    text-align: center;
+}
+table{
+    width: 80%;
+    height: 500px;
+    border: 2px solid rgb(165, 144, 165);
+}
+tr{
+    text-align: center;
+}
+th{
+    width: 100px;
+}
+

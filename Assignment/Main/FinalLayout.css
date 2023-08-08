@@ -1,0 +1,36 @@
+/* nav{
+    height: 80px;
+}
+a{
+    color: aliceblue;
+}
+#navbarNav{
+    position: absolute;
+    right: 0px;
+    color: white;
+    float: left;
+}
+.carousel-inner{
+    height: 700px;
+}
+.week{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: primary;
+} */
+.social-icons {
+    font-size: 24px;
+    width: 40px;
+  }
+
+  .social-icon {
+    color: #fff;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+  }
+
+  .social-icon:hover {
+    color: #55acee; /* Twitter color */
+  }
